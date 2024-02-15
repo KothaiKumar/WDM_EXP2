@@ -42,7 +42,12 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+## Buying
 ![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/21604ec3-a2a8-49e3-9fe3-1b842530f1d7)
+## Employee
+![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/b3b7b5b4-a44e-4466-a3bd-c4764d218956)
+## Bank
+![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/522ce567-081d-4cdd-8e79-bef61c4742c2)
 
 
 ### Procedure for Association Rules:
@@ -54,7 +59,12 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+## Buying
 ![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/2d7b34c0-5aa1-4be2-926b-f7101ec6f555)
+## Employee
+![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/4e4374fc-ec96-4f97-8a77-eaf2df11ff8b)
+## Bank
+![image](https://github.com/KothaiKumar/WDM_EXP2/assets/121215739/ea203eda-9291-454e-8b19-6946bd5278ee)
 
 ### RESULT: 
 Thus this program has been successfully executed.
